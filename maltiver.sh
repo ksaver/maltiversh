@@ -8,8 +8,7 @@
 
 SCRIPTNAME="maltiversh"
 VERSION="0.2"
-# dummy API key, register you own at maltiverse.com
-#API_KEY="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjIyNTcwMDI1NzEsImlhdCI6MTYyNjI4MjU3MSwic3ViIjo3ODc2LCJ1c2VybmFtZSI6ImR1bW15MTIzIiwiYWRtaW4iOmZhbHNlLCJ0ZWFtX2lkIjpudWxsLCJ0ZWFtX25hbWUiOm51bGwsInRlYW1fbGVhZGVyIjpmYWxzZSwidGVhbV9yZXNlYXJjaGVyIjpmYWxzZSwiYXBpX2xpbWl0IjoxMDB9.c_7ZbdyV5fIw-qkJ_ZbjcXk0oOWIvfK_zpMF-ASZbAs"
+# API key required, register you own at maltiverse.com
 API_KEY=""
 
 function check_requirements() {
