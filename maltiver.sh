@@ -8,7 +8,7 @@
 
 SCRIPTNAME="maltiversh"
 VERSION="0.2"
-# API key required, register you own at maltiverse.com
+# API key required, register your own at maltiverse.com
 API_KEY=""
 
 function check_requirements() {
