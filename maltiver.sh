@@ -6,7 +6,7 @@
 #  ksaver, 2021.07.14
 #
 
-SCRIPTNAME="maltiversh"
+SCRIPTNAME="maltiver.sh"
 VERSION="0.2"
 # API key required, register your own at maltiverse.com
 API_KEY=""
